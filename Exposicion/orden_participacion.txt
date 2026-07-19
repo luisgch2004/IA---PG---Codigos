@@ -1,0 +1,18 @@
+Orden de participacion:
+00:00–1:22 — Guevara Chavez Luis Rodrigo - Informe 01
+2:11-3:21 — Guevara Chavez Luis Rodrigo - Informe 01
+3:22-4:33 — Guevara Chavez Luis Rodrigo - Informe 02
+5:56-7:10 — Guevara Chavez Luis Rodrigo - Informe 02 - Total: 5 minutos
+7:11–11:56 — Bejar Mallma Harian Aaron - Informe 03 - Total: 4:47 minutos
+11:57–16:57 — Arancivia Salas Christian Gabriel - Total: 5 minutos
+16:58–21:45 — Nuñez Cardenas Ivan Joaquin - Total 4:47 minutos
+21:45–26:37 — Rojas Rojas Max Fernando - Total 4:51 minutos
+
+Tiempo total de exposicion aprox: 25 minutos
+
+Nota: La duracion del video excede a los 25 minutos, pero esto se debe a los segmentos extra
+que se añadieron para mostrar las pruebas de algunos algoritmos y los archivos del
+repositorio, este tiempo extra no se esta tomando en cuenta para la evaluacion del proyecto
+son solo unos añadidos para mejorar el entendimiento del proyecto.
+Como se ve en los tiempos del orden de participacion los integrantes expusieron en base a los
+5 minutos maximo que se le dio a cada integrante
