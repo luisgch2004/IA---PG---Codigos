@@ -28,6 +28,8 @@ Carpeta que resguarda los entregables académicos definitivos en formato PDF. Aq
 
 ## 📁 Exposición/
 Reúne todo el material de soporte técnico y audiovisual preparado para la sustentación final del proyecto.
+
+A continuación se presenta el árbol de directorios del proyecto para facilitar la navegación y evaluación:
 ```text
 proyecto-ia-grupo05/
 ├── java/                     # Código fuente de los informes del Bloque A (Java)
