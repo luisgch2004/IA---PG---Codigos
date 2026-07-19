@@ -29,7 +29,7 @@ Carpeta que resguarda los entregables académicos definitivos en formato PDF. Aq
 📁 exposición/
 Reúne todo el material de soporte técnico y audiovisual preparado para la sustentación final del proyecto.
 ```text
-proyecto-ia-grupoxx/
+proyecto-ia-grupo05/
 ├── java/                     # Código fuente de los informes del Bloque A (Java)
 │   ├── informe1_busqueda/    # Algoritmos de búsqueda aplicados al problema del 8-puzzle
 │   └── informe2_juegos/      # Algoritmos Minimax (con y sin poda Alfa-Beta) para Tic-Tac-Toe
